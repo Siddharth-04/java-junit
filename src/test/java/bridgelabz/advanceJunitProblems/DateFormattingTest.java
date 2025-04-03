@@ -13,7 +13,7 @@ public class DateFormattingTest {
             "2019-03-09,09-03-2019",
             "2023-05-01,01-05-2023"
     })
-    public void formatDate(String date, String expected) {
+    public void shouldformatDate(String date, String expected) {
         String ans = df.formatDate(date);
         assertEquals(expected, ans);
     }
