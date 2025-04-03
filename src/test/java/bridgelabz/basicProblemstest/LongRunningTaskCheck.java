@@ -1,5 +1,4 @@
-package bridgelabz;
-import bridgelabz.basicJunitTest.EvenOddChecker;
+package bridgelabz.basicProblemstest;
 import bridgelabz.basicJunitTest.LongRunningTask;
 import org.junit.jupiter.api.*;
 

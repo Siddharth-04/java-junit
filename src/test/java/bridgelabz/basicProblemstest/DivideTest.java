@@ -1,4 +1,4 @@
-package bridgelabz;
+package bridgelabz.basicProblemstest;
 import bridgelabz.basicJunitTest.Divide;
 import org.junit.jupiter.api.*;
 import static org.junit.Assert.*;

@@ -1,4 +1,4 @@
-package bridgelabz;
+package bridgelabz.basicProblemstest;
 
 import bridgelabz.basicJunitTest.FileProcessor;
 import org.junit.jupiter.api.Test;

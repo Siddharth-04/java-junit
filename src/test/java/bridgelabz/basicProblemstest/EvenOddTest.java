@@ -1,4 +1,4 @@
-package bridgelabz;
+package bridgelabz.basicProblemstest;
 import bridgelabz.basicJunitTest.EvenOddChecker;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
