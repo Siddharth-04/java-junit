@@ -1,6 +1,5 @@
-package bridgelabz.basicProblemstest;
+package bridgelabz.basicJunitProblems;
 
-import bridgelabz.basicJunitTest.Calculator;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

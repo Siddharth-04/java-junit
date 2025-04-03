@@ -1,6 +1,5 @@
-package bridgelabz.basicProblemstest;
+package bridgelabz.basicJunitProblems;
 
-import bridgelabz.basicJunitTest.StringUtils;
 import org.junit.jupiter.api.*;
 import static org.junit.Assert.*;
 

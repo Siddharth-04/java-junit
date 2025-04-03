@@ -1,4 +1,4 @@
-package bridgelabz.basicJunitTest;
+package bridgelabz.basicJunitProblems;
 
 import java.util.ArrayList;
 

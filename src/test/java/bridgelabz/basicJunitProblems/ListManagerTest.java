@@ -1,8 +1,7 @@
-package bridgelabz.basicProblemstest;
+package bridgelabz.basicJunitProblems;
 
 import java.util.ArrayList;
 
-import bridgelabz.basicJunitTest.ListManager;
 import org.junit.jupiter.api.*;
 import static org.junit.Assert.*;
 

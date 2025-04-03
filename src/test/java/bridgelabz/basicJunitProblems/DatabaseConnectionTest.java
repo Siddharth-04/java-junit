@@ -1,6 +1,5 @@
-package bridgelabz.basicProblemstest;
+package bridgelabz.basicJunitProblems;
 
-import bridgelabz.basicJunitTest.DatabaseConnection;
 import org.junit.jupiter.api.*;
 
 public class DatabaseConnectionTest {

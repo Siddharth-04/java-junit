@@ -1,5 +1,4 @@
-package bridgelabz.advanceProblemTest;
-import bridgelabz.advanceJunitTest.BankAccount;
+package bridgelabz.advanceJunitProblems;
 import org.junit.jupiter.api.*;
 import static org.junit.Assert.*;
 

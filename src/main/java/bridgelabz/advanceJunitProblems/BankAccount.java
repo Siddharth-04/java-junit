@@ -1,4 +1,4 @@
-package bridgelabz.advanceJunitTest;
+package bridgelabz.advanceJunitProblems;
 
 public class BankAccount {
     double balance;

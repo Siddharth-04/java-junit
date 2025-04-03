@@ -1,4 +1,4 @@
-package bridgelabz.basicJunitTest;
+package bridgelabz.basicJunitProblems;
 
 import java.io.BufferedWriter;
 import java.io.FileInputStream;

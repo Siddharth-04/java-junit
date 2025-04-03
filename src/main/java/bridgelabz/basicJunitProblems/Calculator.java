@@ -1,4 +1,4 @@
-package bridgelabz.basicJunitTest;
+package bridgelabz.basicJunitProblems;
 
 public class Calculator {
     public int a;

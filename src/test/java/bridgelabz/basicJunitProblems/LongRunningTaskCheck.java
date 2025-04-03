@@ -1,5 +1,4 @@
-package bridgelabz.basicProblemstest;
-import bridgelabz.basicJunitTest.LongRunningTask;
+package bridgelabz.basicJunitProblems;
 import org.junit.jupiter.api.*;
 
 import java.util.concurrent.TimeUnit;
