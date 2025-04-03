@@ -23,6 +23,10 @@ public class UserRegistration {
         boolean email = this.email.matches(regexForEmail);
         boolean password = this.password.matches(regexForPassword);
 
-        return name && email && password;
+        if(name && email && password){
+            return name && email && password;
+        }
+
+        throw new IllegalArgumentException("Your input is invalid");
     }
 }

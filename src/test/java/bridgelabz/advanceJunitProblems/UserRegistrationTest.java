@@ -3,6 +3,7 @@ package bridgelabz.advanceJunitProblems;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
+import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class UserRegistrationTest {
@@ -16,6 +17,6 @@ public class UserRegistrationTest {
     })
     public void shouldRegsiterUser(String name,String email ,String password) {
         user = new UserRegistration(name,email,password);
-        assertTrue(user.registerUser());
+        assertThrows(IllegalArgumentException.class,() ->user.registerUser());
     }
 }
